@@ -1,0 +1,24 @@
+ANOTAÇÕES DO 3.1 HTML E CSS
+*TAGS*
+</em> deixa em italico 
+<br> quebra de linha
+</strong> deixa em negrito
+</p> paragrafo
+</h1> título
+</ul> lista com bolinhas
+</ol> lista numeradas 
+</li> valores da lista
+<img, (atributo)src="url" (propriedade)width="300px" (propriedade)alt="conteudodaimg">
+</a href="https//:link"> pode-se usar um id, como hred="#id", e coloca o id em outro lugar "id="nome"
+-------------------CSS--------------------------
+começa com a tag style no *HEAD
+</style>
+dentro do style ex: h2{propriedade color: green;}
+-body {background-color: cor ou rgb(000,000,000);(cor de fundo)} 
+Podemos crair também um id especifico para uma área e dar estilo a ele. assim no style começa com #nomedoid{background-color:cor; } mas so pode usar em uma tag. se quer em mais faz a class e começa com .nomedaclasse (isso no style do css no head do html)
+*ARREDONDAR FOTOS* - criando uma classe . e adicone no img. no style na classe {border-radius: px ou %;} tamanho da imagem width: px;
+BUTTON POR CLASS( para link) - usa-se várias propriedades, text-decoration: none, background-color: cor;, display: block; padding: px;line-height: px; margin:px; border-radius: px; width: px; text-align: center; color:, font-weight:, 
+button:hover { **background: font-size, transition: 1s)  
+estilo para classe no head style, começa com .life-style {background-color :cor; color: cor;}
+*DICA - font-family: 'Montserrat','Verdana', 'Arial', sans-serif; (**fonts.google.com**)
+
