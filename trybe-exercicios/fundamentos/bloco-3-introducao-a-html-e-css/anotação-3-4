@@ -1,0 +1,11 @@
+ANOTAÇÕES 3.4
+*<header> cabeçalho titulo do menor e todo conteudo.
+*<main> contéudo principal
+*<nav> navegação, opções do cabeçalho, menu.
+*<footer> roda pé
+<section> para contéudo secundario parecido com bory.
+<article> para contéudo separados( artigos ...)
+usar o f2 ao trocar uma tag para pegar a ultima
+<aside> é um contéudo que fica ao lado ou anexado
+html 5 outline (verificar a semântica do site)
+ 

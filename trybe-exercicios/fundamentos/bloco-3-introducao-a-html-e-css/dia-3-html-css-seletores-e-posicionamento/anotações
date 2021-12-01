@@ -1,0 +1,15 @@
+ANOTAÇÕES DE 3.3 
+*tags*
+</span> faz com que você estelize uma frase. inliner
+<div> conteiner, estilizar vários  elementos. block
+overflow: hidden, propriedade para classe que esconde ou oculta conteúdo. ou auto que deixa visivel com um scrown, pode-se usar -x(vertical) e -y(horizontal)
+background-imagem: url(caminhoDaImagem), background-size: 100px;cover( tamanho da imagem) no-repeat( não repete a imagem) height(altura) background-position: (posição da imagem)px ou %;
+padding para afastar o texto)tirar dos cantos
+* (signiica tudo) {margin-top-bottom: 0, padding: 0} 
+*text-align: center 
+display: inline-block ( deixa em bloco e em linha)
+vertical-align: middle ( alinha pelo meio verticalmente)
+git comiit --amend volta para editar o que escreveu errado 
+float ( divisão também de blocos)
+clear:both é uma forma para evitar de flutuar para não bagunçar
+list-style: muda estilo das bolinhas da lista
