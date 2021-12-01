@@ -1,0 +1,12 @@
+----javascript------
++= (ele soma e ja atribui o valor a variavel)
+let = variavel;
+if (){console.log;} condição; else{} se não.
+if else(){}, mais condição no if inicial
+=== comparação de tipo e valor 
+== para compara se são iguais. 
+= para atribuir o valor.
+? : 
+console.log();
+switch (var){
+case n:console.log();break;...} { so para igualdade )

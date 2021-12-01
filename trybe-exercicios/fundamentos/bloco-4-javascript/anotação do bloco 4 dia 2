@@ -1,0 +1,14 @@
+JAVA SCRIPT 4.2
+*fazendo-jogo de verificação da mega sena na aula 
+var nome = [] (uma array)
+Math.random()*60]
+Math.floor(Math.random()*60+1) aredamento e numero aleatorio até 60
+*mostrando numeros sorteado, console.log(megaSenaNumbers);
+*criar uma lista ou array com números premiados
+let lista = [...]; 
+*comparar cada um por cada um. 
+*crar variavel contador 
+faça um FOR (com contador = 0, indice < array.length; contador += 1) { for com outro indice e outra lista faltante) if (condicão megasena[i] === fistplay[n]) { numberofhits += 1;}}}
+console.log("Números sorteados: " + megasena);
+tentativa 
+total de acerto
