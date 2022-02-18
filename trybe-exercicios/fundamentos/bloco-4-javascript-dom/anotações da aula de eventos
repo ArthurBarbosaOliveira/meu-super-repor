@@ -1,0 +1,7 @@
+JAVASCRIPT 5.2 
+-.onload
+window.onload = nome da função ; (chama uma função)
+onclick - button
+eventos- click, change,dblick, scroll, keydown, mouseleave,mouseover.
+queryselector".".style.backgroundColor = "blue
+
